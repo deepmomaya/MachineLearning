@@ -1,3 +1,3 @@
 # MachineLearning
 
-This repository contains popular machine learning algorithms implemented in Python.
+This repository contains machine learning algorithms implemented in Python.
