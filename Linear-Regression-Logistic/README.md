@@ -1,8 +1,8 @@
-# Linear-Regression-Logistic
+## Linear-Regression-Logistic
 
 This task involves implementing various linear models for regression and classification tasks. The implemented models include Linear Regression, Logistic Regression, and Linear Discriminant Analysis (LDA).
 
-## Linear Regression
+### Linear Regression
 
 Implementing the `LinearRegression` class with methods for fitting, predicting, scoring, and saving/loading weights. The fitting method uses gradient descent with early stopping and validation set. Models are trained on the Iris flower dataset to predict continuous outputs based on input features.
 
@@ -16,7 +16,7 @@ Implementing the `LinearRegression` class with methods for fitting, predicting, 
 - Observes effects of regularization on one trained model.
 - Tests the models onto different feature variant sets.
 
-## Classification
+### Classification
 
 Implementing classification models using Logistic Regression and Linear Discriminant Analysis (LDA). Models are trained and tested on variants of input features from the Iris dataset.
 
