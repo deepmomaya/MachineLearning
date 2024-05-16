@@ -1,6 +1,6 @@
-# Qlearning
+## Qlearning
 
-## Part 1: Q-Learning and Policy Iteration on the Frozen Lake Environment
+### Part 1: Q-Learning and Policy Iteration on the Frozen Lake Environment
 
 Implementing a basic version of Q-Learning on the Frozen Lake environment using OpenAI Gym. Tasks included:
 1. Understanding the Frozen Lake environment and its dynamics.
@@ -9,7 +9,7 @@ Implementing a basic version of Q-Learning on the Frozen Lake environment using 
 4. Evaluating agent performance and analyzing the impact of hyperparameters on the learning process, specifically `alpha`, `gamma`, and `epsilon`.
 5. Implementing the policy iteration algorithm and comparing its performance to Q-Learning.
 
-## Part 2: Proximal Policy Optimization on an Atari Game Environment
+### Part 2: Proximal Policy Optimization on an Atari Game Environment
 
 Adapting the Q-Learning code from Part 1 to an Atari game environment chosen from the OpenAI Gym library and implementing the Proximal Policy Optimization (PPO) algorithm for comparison. Tasks included:
 1. Choosing an Atari game environment from the OpenAI Gym library.
